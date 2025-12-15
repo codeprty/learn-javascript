@@ -47,9 +47,9 @@ Each folder contains multiple JavaScript files, each focusing on a specific topi
 4. **Run an exercise**
    - In the terminal, run a specific JavaScript file with Node.js:
      ```bash
-     node basic/exercise_01.js
+     node exercise_01.js
      ```
-   - Replace the path with file you want to run (e.g., **basic/exercise_02.js**).
+   - Replace the path with file you want to run (e.g., **exercise_02.js**).
 5. View the output
    - The results will be printed in the terminal.
    - Modify the code or try different exercises to practice and experiment in real-time.
